@@ -1,0 +1,9 @@
+c:\users\anton.helenius\documents\visual studio 2017\Projects\ThatPhotoshopThingFnktion\ThatPhotoshopThingFnktion\bin\Debug\ThatPhotoshopThingFnktion.exe.config
+c:\users\anton.helenius\documents\visual studio 2017\Projects\ThatPhotoshopThingFnktion\ThatPhotoshopThingFnktion\bin\Debug\ThatPhotoshopThingFnktion.exe
+c:\users\anton.helenius\documents\visual studio 2017\Projects\ThatPhotoshopThingFnktion\ThatPhotoshopThingFnktion\bin\Debug\ThatPhotoshopThingFnktion.pdb
+c:\users\anton.helenius\documents\visual studio 2017\Projects\ThatPhotoshopThingFnktion\ThatPhotoshopThingFnktion\obj\Debug\ThatPhotoshopThingFnktion.csprojResolveAssemblyReference.cache
+c:\users\anton.helenius\documents\visual studio 2017\Projects\ThatPhotoshopThingFnktion\ThatPhotoshopThingFnktion\obj\Debug\ThatPhotoshopThingFnktion.Properties.Resources.resources
+c:\users\anton.helenius\documents\visual studio 2017\Projects\ThatPhotoshopThingFnktion\ThatPhotoshopThingFnktion\obj\Debug\ThatPhotoshopThingFnktion.csproj.GenerateResource.Cache
+c:\users\anton.helenius\documents\visual studio 2017\Projects\ThatPhotoshopThingFnktion\ThatPhotoshopThingFnktion\obj\Debug\ThatPhotoshopThingFnktion.exe
+c:\users\anton.helenius\documents\visual studio 2017\Projects\ThatPhotoshopThingFnktion\ThatPhotoshopThingFnktion\obj\Debug\ThatPhotoshopThingFnktion.pdb
+c:\users\anton.helenius\documents\visual studio 2017\Projects\ThatPhotoshopThingFnktion\ThatPhotoshopThingFnktion\obj\Debug\ThatPhotoshopThingFnktion.Form1.resources
